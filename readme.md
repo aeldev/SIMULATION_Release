@@ -22,7 +22,6 @@ Développer en mode textuel me permet d'ajouter de nouvelles fonctionnalités pl
 ### Comment installer et lancer le jeu ? 
 Il suffit de télécharger le fichier **.exe** et de le lancer. 😊
 ### Le jeu est-il disponible sur d'autres plateformes ?
-Pour l’instant, il est uniquement disponible sur **Windows**, mais une version pour **Mac, Linux et mobile** est prévue.. 
+Pour l’instant, il est uniquement disponible sur **Windows et Linux**, mais une version pour **Mac, et mobile** est prévue.. 
 ### Le jeu est-il open source ? Puis-je modifier le code ?
-
 Le jeu **n'est pas open source**, mais n’hésitez pas à me faire part de vos suggestions ou conseils !
