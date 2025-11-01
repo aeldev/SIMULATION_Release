@@ -2,7 +2,7 @@
 
 Une simulation textuelle faite avec Godot, que je développe durant mon temps libre. 
 
-Dernière version : 0.7.0
+Dernière version : 0.8.1.1
 
 ---
 # F.A.Q
